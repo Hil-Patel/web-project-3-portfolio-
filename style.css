@@ -334,7 +334,7 @@ nav>ul>li>a:hover{
         width: 100%;
     }
     .box{
-        width: 80%;
+        width: 100%;
     }
 }
 @media(max-width:692px)
