@@ -351,6 +351,11 @@ nav>ul>li>a:hover{
     nav>ul{
         justify-content: space-between;
     }
+    .intro-text{
+        margin: 0px;
+        margin-top: 10px;
+        padding: 2rem;
+    }
     #contact{
         display: block;
     }
